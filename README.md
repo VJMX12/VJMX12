@@ -18,3 +18,5 @@ DeFi protocol design · AMM mechanics · quantitative trading systems · Bayesia
 #### 📫 Reach me
 
 Open an issue on any repo above, or connect on LinkedIn.
+
+> Older projects live on a previous account: [github.com/vickyyjoe](https://github.com/vickyyjoe)
